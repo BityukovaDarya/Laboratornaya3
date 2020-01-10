@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratornaya 3</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="save">Сохранить</string>
+    <string name="empty">Поле не должно быть пустым</string>
+    <string name="number">Студент №%1$d</string>
+</resources>
